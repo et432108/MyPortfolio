@@ -24,6 +24,12 @@ npm start
 
 For rebuilds while editing, run `npm run dev` in one terminal and `npm start` in another. Refresh the browser after changes. The build preserves the existing animation assets in `dist/assets/`.
 
+## Deploy to Vercel
+
+Import this repository with the repository root as the Root Directory. `vercel.json` selects the **Other** framework preset, runs `npm run build`, and publishes `dist/`.
+
+This is a static React site: Vercel serves the compiled JavaScript, CSS, images, and audio. It does not run `serve.mjs`, Python, or C++. The pre-rendered animation frames are already included, so no game installation, rendering tools, backend, database, or environment variables are required for deployment. Hash routes such as `/#profile` work without server rewrites.
+
 ## Project structure
 
 - `src/App.jsx`: navigation, modal state, keyboard controls, and settings.
