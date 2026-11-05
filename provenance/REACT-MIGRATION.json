@@ -1,0 +1,58 @@
+{
+  "passed": true,
+  "checks": [
+    "Keyboard navigation, project filtering, details, Escape, and focus restoration",
+    {
+      "section": "0",
+      "id": 20,
+      "samePlayer": true,
+      "sameCanvas": true,
+      "plate": "assets/native/P5_CAMPPARTY_2D.png",
+      "sourceClip": 45
+    },
+    {
+      "section": "1",
+      "id": 5,
+      "samePlayer": true,
+      "sameCanvas": true,
+      "plate": "assets/native/P5_CAMPITEM_2D01.png",
+      "sourceClip": 45
+    },
+    {
+      "section": "2",
+      "id": 30,
+      "samePlayer": true,
+      "sameCanvas": true,
+      "plate": "assets/native/P5_CAMPCOOP_2D01.png",
+      "sourceClip": 45
+    },
+    {
+      "section": "3",
+      "id": 10,
+      "samePlayer": true,
+      "sameCanvas": true,
+      "plate": "assets/native/P5_CAMPSKILL_2D01.png",
+      "sourceClip": 45
+    },
+    {
+      "section": "4",
+      "id": 41,
+      "samePlayer": true,
+      "sameCanvas": true,
+      "plate": "assets/native/P5_CAMPSYSTEM_2D.png",
+      "sourceClip": 45
+    },
+    {
+      "section": "5",
+      "id": 35,
+      "samePlayer": true,
+      "sameCanvas": true,
+      "plate": "assets/native/P5_CAMPMISSION_2D.png",
+      "sourceClip": 45
+    },
+    "Quick View, settings synchronization and persistence, deep links, and hash navigation",
+    "Mobile Profile and Contact, dialog bounds, and email link",
+    "Escape during a delayed frame load cancels the pending panel; subsequent Profile playback works"
+  ],
+  "errors": []
+}

@@ -1,0 +1,9 @@
+node_modules/
+.tool-cache/
+.sites-runtime/
+.openai/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store

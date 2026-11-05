@@ -1,0 +1,59 @@
+Ethan Pacheco
+PORTFOLIO SUMMARY — not the previously approved resume PDF
+elmp.pacheco@gmail.com
+GitHub: https://github.com/et432108
+itch.io: https://kryoa.itch.io
+Devpost: https://devpost.com/ethanpacheco-elmp
+LinkedIn: https://www.linkedin.com/in/ethan-pacheco-a7795b220/
+
+EDUCATION
+University of Central Florida — B.S. Information Technology, Expected May 2028. GPA 3.75
+Seminole State College — Associate of Arts, April 2023. Summa Cum Laude
+
+SELECTED PROJECTS
+Nightmare Rooms — Solo project
+A horror prototype built around procedural rooms and a pursuing creature.
+Built procedural layouts and room streaming in Godot and C#.
+Implemented creature navigation with A* pathfinding.
+Validated procedural layouts across 1,000 seeds.
+
+I See The Clouds — Solo · 48-hour game
+A horror game made solo in 48 hours.
+Designed and built the game as a solo Unity project within a 48-hour window.
+The published game is available on itch.io.
+Play on itch.io: https://kryoa.itch.io/i-see-the-clouds
+
+Domain Clash — Four-person team
+A gesture-controlled, turn-based combat game with real-time multiplayer rooms.
+Team project featuring nine characters and MediaPipe gesture controls.
+Combat is turn-based; WebSocket rooms provide real-time networking.
+Features and results here describe the team project. Individual ownership of specific subsystems is not asserted.
+Source code: https://github.com/Ethan-Holland29/domainClash
+Devpost: https://devpost.com/software/domain-clash
+
+Tempo — Solo project
+A workout app with optional Spotify integration and rule-based playlists.
+Built the application with Python, FastAPI, and SQLite.
+Added optional Spotify OAuth and rule-based playlist selection.
+Local project; no confirmed public demo.
+
+Nacht Garden — Team project · Python tooling
+Python asset-conversion and build tooling for a team game project.
+My contribution was Python tooling for asset conversion and the build process.
+The team pipeline produced 1,358 frames.
+A specific 16-frame GPU benchmark showed 97.2% lower render time. That result does not describe overall game performance.
+Source code: https://github.com/Ethan-Holland29/nacht-garden
+
+PL/0 compiler & virtual machine — Compiler project
+A PL/0 compiler and a stack-based virtual machine implemented in C.
+Implemented a compiler and stack-based virtual machine in C.
+
+EXPERIENCE
+Knight Hacks — Operations Member
+Winn-Dixie — Grocery Associate, 2021–2022
+
+SKILLS
+Languages: C#, Python, C
+Game development: Godot, Unity, Procedural generation, Room streaming, A* pathfinding
+Applications & tooling: FastAPI, SQLite, WebSockets, MediaPipe, Spotify OAuth, Asset conversion, Build tooling
+Systems: Compiler construction, Stack-based virtual machines, Seed validation

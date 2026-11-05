@@ -1,0 +1,27 @@
+/* Generated from reference-art-fits.json; coordinates use the 1280 × 720 stage. */
+@media(min-width:761px){
+body:not(.section-open) #camp-art{left:258px;top:-1px;width:1025px;height:1025px;object-fit:contain;object-position:left top}
+body.section-open[data-section="0"] #camp-art{left:-5px;top:-2px;width:1378px;height:1033px;object-fit:contain;object-position:left top}
+body.section-open[data-section="1"] #camp-art{left:13px;top:-1px;width:1026px;height:1026px;object-fit:contain;object-position:left top}
+body.section-open[data-section="2"] #camp-art{left:-9px;top:-1px;width:1368px;height:1026px;object-fit:contain;object-position:left top}
+body.section-open[data-section="3"] #camp-art{left:-2px;top:-1px;width:1026px;height:1026px;object-fit:contain;object-position:left top}
+body.section-open[data-section="5"] #camp-art{left:-6px;top:-3px;width:690px;height:1035px;object-fit:contain;object-position:left top}
+body.section-open[data-section="4"] #camp-art{left:278px;top:213px;width:998px;height:499px;object-fit:contain;object-position:left top}
+body{--panel-x:40px;--panel-width:650px}
+body[data-section="0"]{--panel-x:45px;--panel-width:670px}
+body[data-section="1"],body[data-section="3"]{--panel-x:730px;--panel-width:510px}
+body[data-section="2"]{--panel-x:40px;--panel-width:520px}
+body[data-section="5"]{--panel-x:550px;--panel-width:690px}
+body[data-section="4"]{--panel-x:45px;--panel-width:620px}
+dialog{left:calc(var(--stage-left,0px) + var(--panel-x)*var(--game-scale,1));top:calc(var(--stage-top,0px) + 35px*var(--game-scale,1));right:auto;bottom:auto;width:calc(var(--panel-width)*var(--game-scale,1));max-width:none;max-height:calc(650px*var(--game-scale,1));transform:none}
+body[data-section="0"] .command-mark{left:690px;top:480px;transform:rotate(-12deg)}
+body[data-section="1"] .command-mark{left:365px;top:495px;transform:rotate(-18deg)}
+body[data-section="2"] .command-mark{left:460px;top:420px;transform:rotate(-18deg)}
+body[data-section="3"] .command-mark{left:330px;top:515px;transform:rotate(-14deg)}
+body[data-section="5"] .command-mark,body[data-section="4"] .command-mark{visibility:hidden}
+body[data-section="0"] #native-background{clip-path:polygon(18% 0,100% 0,100% 100%,65% 100%,0 10%)}
+body[data-section="1"] #native-background,body[data-section="3"] #native-background{clip-path:polygon(0 0,65% 0,50% 100%,0 100%)}
+body[data-section="2"] #native-background{clip-path:polygon(0 0,30% 0,100% 85%,100% 100%,0 100%)}
+body[data-section="5"] #native-background{clip-path:polygon(0 0,40% 0,49% 100%,0 100%)}
+body[data-section="4"] #native-background{clip-path:polygon(79% 0,100% 0,100% 100%,89% 100%,72% 40%)}
+}

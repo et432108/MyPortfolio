@@ -1,0 +1,1247 @@
+{
+  "samples": [
+    {
+      "i": 0,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.394540690101486,
+      "headLocalRotation": [
+        -0.16545503585303292,
+        0.19004915168773356,
+        0.11694008395851371,
+        0.9606409151277183
+      ],
+      "neckLocalRotation": [
+        -0.10252274706630164,
+        0.018690289495672783,
+        -0.04517724015323351,
+        0.9935284476977417
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 1,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.394537893749057,
+      "headLocalRotation": [
+        -0.16442471910181736,
+        0.19022201114800102,
+        0.11686492596598222,
+        0.9607927389932045
+      ],
+      "neckLocalRotation": [
+        -0.10250475651251853,
+        0.018714224879075324,
+        -0.04485652898648394,
+        0.9935443847593168
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 2,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.394441940412337,
+      "headLocalRotation": [
+        -0.16139207428687352,
+        0.19073477881860676,
+        0.1166721004092503,
+        0.9612286218650021
+      ],
+      "neckLocalRotation": [
+        -0.10245168529434391,
+        0.018783759804173857,
+        -0.043924830053102354,
+        0.9935901729852074
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 3,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.394082094707947,
+      "headLocalRotation": [
+        -0.1563513393025769,
+        0.19157197713333413,
+        0.11641108652592864,
+        0.9619266579159602
+      ],
+      "neckLocalRotation": [
+        -0.10236314940963002,
+        0.018897306877552974,
+        -0.042403459830753804,
+        0.9936632347179295
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 4,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.393358549526592,
+      "headLocalRotation": [
+        -0.14933284296452254,
+        0.19261724833949706,
+        0.11609119381522767,
+        0.9628712958504937
+      ],
+      "neckLocalRotation": [
+        -0.10223931580021144,
+        0.019053465569033486,
+        -0.040311565311094186,
+        0.9937600643297575
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 5,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.39091561796839,
+      "headLocalRotation": [
+        -0.1261074637994456,
+        0.19400995951880695,
+        0.11460138067384805,
+        0.9660867283682301
+      ],
+      "neckLocalRotation": [
+        -0.10182544581142741,
+        0.019576340667797083,
+        -0.03331489569849346,
+        0.9940515395068612
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 6,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.08261291576060983,
+        0.183662674625933,
+        0.10773272770992716,
+        0.9735690974342591
+      ],
+      "neckLocalRotation": [
+        -0.10106180295601516,
+        0.02063271426384071,
+        -0.0192488783165177,
+        0.9944799061665057
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 7,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.04170088802814002,
+        0.15559382998940713,
+        0.09353122519985578,
+        0.9824986035203845
+      ],
+      "neckLocalRotation": [
+        -0.10013195886584841,
+        0.02186566460861161,
+        -0.002711775426171329,
+        0.9947301793948697
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 8,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.021165306256435278,
+        0.12646828864661425,
+        0.07805102522573062,
+        0.988668720673958
+      ],
+      "neckLocalRotation": [
+        -0.09940518937878944,
+        0.02276275586006232,
+        0.009434875454923376,
+        0.9947419003919421
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 9,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.015184710646512892,
+        0.11042521394196089,
+        0.06785634704785358,
+        0.9914490470285273
+      ],
+      "neckLocalRotation": [
+        -0.09904574237655547,
+        0.02322089913433315,
+        0.015624708594703725,
+        0.9946891973082852
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 10,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.012746899760647523,
+        0.09768722524485135,
+        0.05926583537248499,
+        0.9933691576287514
+      ],
+      "neckLocalRotation": [
+        -0.09878116674595445,
+        0.02356228685175297,
+        0.020235073711831884,
+        0.9946243720754586
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 11,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.011720716537640005,
+        0.08648017615209459,
+        0.05050251867101056,
+        0.9949036634490958
+      ],
+      "neckLocalRotation": [
+        -0.09854699342652251,
+        0.023863129297250554,
+        0.024297449147517303,
+        0.9945494834907209
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 12,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.011572094927207708,
+        0.07506082121539621,
+        0.03896045450402918,
+        0.9963503614303081
+      ],
+      "neckLocalRotation": [
+        -0.09828788959248726,
+        0.024189517991362396,
+        0.028704699255776293,
+        0.9944497967315576
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 13,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.013600798412950282,
+        0.06380252629757113,
+        0.021950955770172385,
+        0.997628393471915
+      ],
+      "neckLocalRotation": [
+        -0.09799875858819401,
+        0.024542234720770037,
+        0.033456397958968986,
+        0.9943211711844894
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 14,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.01798988504862895,
+        0.0538538629935595,
+        0.0014017073677956439,
+        0.9983857774893747
+      ],
+      "neckLocalRotation": [
+        -0.09771137861416081,
+        0.024885886993650786,
+        0.03807840438540902,
+        0.9941746397073912
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 15,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.022554279119208674,
+        0.045919016292974964,
+        -0.018202908484935474,
+        0.9985246128958403
+      ],
+      "neckLocalRotation": [
+        -0.09743604554884244,
+        0.02521629187424872,
+        0.042543341386608036,
+        0.9940122835033676
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 16,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.02667696750606887,
+        0.041168050872189985,
+        -0.03587593903901807,
+        0.9981515155476816
+      ],
+      "neckLocalRotation": [
+        -0.09719647966393954,
+        0.02551460764917647,
+        0.04662104440943857,
+        0.9938452230380841
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 17,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.03061804959530373,
+        0.03903101099279467,
+        -0.05075060310100399,
+        0.9974785669400342
+      ],
+      "neckLocalRotation": [
+        -0.09697804244972529,
+        0.02578806398017345,
+        0.05038036125905516,
+        0.9936760308260337
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 18,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.033246296571825186,
+        0.037675634540676226,
+        -0.05822638838032677,
+        0.9970380725039536
+      ],
+      "neckLocalRotation": [
+        -0.09673438746224156,
+        0.026071305400799112,
+        0.05424414415069355,
+        0.9934889622649876
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 19,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.034503410870071756,
+        0.037455855290848744,
+        -0.05756811753420826,
+        0.9970418674189814
+      ],
+      "neckLocalRotation": [
+        -0.09646874607166059,
+        0.026357491944263484,
+        0.05811114717273727,
+        0.993288557381005
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 20,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.03492540923366107,
+        0.03809743444394417,
+        -0.05294941329668595,
+        0.9972588234306016
+      ],
+      "neckLocalRotation": [
+        -0.09620841231788538,
+        0.026635506586265168,
+        0.06188388347935194,
+        0.9930784843876536
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 21,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.03468689561812071,
+        0.03933301039959838,
+        -0.04615243227703279,
+        0.9975568588106629
+      ],
+      "neckLocalRotation": [
+        -0.0959657681622571,
+        0.026905906131631248,
+        0.06560661486571526,
+        0.9928556872185029
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 22,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.03375779496532725,
+        0.0412597767353669,
+        -0.03652104329790705,
+        0.9979099435817137
+      ],
+      "neckLocalRotation": [
+        -0.09572860193811783,
+        0.027174579319518152,
+        0.06934105836206114,
+        0.9926174462676998
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 23,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.39047822291483,
+      "headLocalRotation": [
+        -0.03279040335072608,
+        0.04330199196242088,
+        -0.028021327621672008,
+        0.9981305185888778
+      ],
+      "neckLocalRotation": [
+        -0.09548717392625677,
+        0.02744091662269136,
+        0.07306502132744525,
+        0.9923662118234897
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 24,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.031804292464828424,
+        0.04542452860123819,
+        -0.02091851672098087,
+        0.9982422125117536
+      ],
+      "neckLocalRotation": [
+        -0.09523838955322193,
+        0.02770224450787697,
+        0.07676494408254188,
+        0.992103511819477
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 25,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.030832590771175367,
+        0.047651280863788344,
+        -0.01517032468001529,
+        0.9982727923906776
+      ],
+      "neckLocalRotation": [
+        -0.0949900026640485,
+        0.027963453178335883,
+        0.08045002908840729,
+        0.9918279777763388
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 26,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.030098552812573322,
+        0.049841634734092366,
+        -0.011903023907509202,
+        0.9982325413386799
+      ],
+      "neckLocalRotation": [
+        -0.09474997751163784,
+        0.028231481345680723,
+        0.08412811021213787,
+        0.9915381416237639
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 27,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.029537647499083705,
+        0.05203679791616697,
+        -0.010820065073972785,
+        0.9981496006284063
+      ],
+      "neckLocalRotation": [
+        -0.09451644016928684,
+        0.028503724931861957,
+        0.08778918758718872,
+        0.9912352085885145
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 28,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.028913342208678004,
+        0.054481174821592815,
+        -0.009995845961538276,
+        0.9980460426733309
+      ],
+      "neckLocalRotation": [
+        -0.09428125630253496,
+        0.028771611105249596,
+        0.09143184337093122,
+        0.9909205099917036
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 29,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.028172005371176798,
+        0.05724073096483767,
+        -0.009043859915373957,
+        0.9979218633890174
+      ],
+      "neckLocalRotation": [
+        -0.09404536986217069,
+        0.029032304911293032,
+        0.09505769600403022,
+        0.9905940783738971
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 30,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.027377605144138496,
+        0.06022004970863913,
+        -0.008352265044841614,
+        0.9977746499176463
+      ],
+      "neckLocalRotation": [
+        -0.09380543239914546,
+        0.029288982355650153,
+        0.09864703142850546,
+        0.9902582792157425
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 31,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.02654721818173943,
+        0.06336661709040131,
+        -0.007922653272260386,
+        0.9976057079881095
+      ],
+      "neckLocalRotation": [
+        -0.09355293526053744,
+        0.029543706787496172,
+        0.10217246772189298,
+        0.9899170695230035
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 32,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.025677093772400843,
+        0.0666900064708223,
+        -0.007753948493682069,
+        0.9974131572097304
+      ],
+      "neckLocalRotation": [
+        -0.09329097115969527,
+        0.02979542413475219,
+        0.10563621707107718,
+        0.9895706225649706
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 33,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.02479481485477615,
+        0.07015958418968521,
+        -0.007839823274524002,
+        0.9971967644721238
+      ],
+      "neckLocalRotation": [
+        -0.0930362151039308,
+        0.030043306909126773,
+        0.10907446155393395,
+        0.9892140436861067
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 34,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.023898864112478102,
+        0.07378403323946117,
+        -0.008174881751243465,
+        0.9969543279616198
+      ],
+      "neckLocalRotation": [
+        -0.09279131810969836,
+        0.0302869205930271,
+        0.11249615169490584,
+        0.9888463427541679
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 35,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.02300411094449801,
+        0.0775129771694112,
+        -0.008757336193214582,
+        0.9966874426382559
+      ],
+      "neckLocalRotation": [
+        -0.09255514404944186,
+        0.030526181921340306,
+        0.1158761394185852,
+        0.9884707470839675
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 36,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.022132079635239246,
+        0.08128326888525815,
+        -0.009583992625795002,
+        0.9963991912560424
+      ],
+      "neckLocalRotation": [
+        -0.0923319268427984,
+        0.030760243515389155,
+        0.11919451639303252,
+        0.9880897175693113
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 37,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.021272838586200698,
+        0.0851216160203135,
+        -0.010651558013276352,
+        0.9960865028382153
+      ],
+      "neckLocalRotation": [
+        -0.09212047399456523,
+        0.03098970252325122,
+        0.12246605641592519,
+        0.9877021421635515
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 38,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.020442259478513018,
+        0.08901928595269175,
+        -0.011959620900026238,
+        0.9957482855741274
+      ],
+      "neckLocalRotation": [
+        -0.0919072748020745,
+        0.031220586625916764,
+        0.12570538119521127,
+        0.987307695172967
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 39,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.01964296892295054,
+        0.0929823719428589,
+        -0.013504517880200809,
+        0.9953823688797162
+      ],
+      "neckLocalRotation": [
+        -0.09168967412829937,
+        0.031456897369441364,
+        0.12890721113864967,
+        0.9869074922111952
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 40,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.018876864226604062,
+        0.09699022261390249,
+        -0.015289052266762308,
+        0.9949888469701862
+      ],
+      "neckLocalRotation": [
+        -0.09146830642494305,
+        0.031693346771251095,
+        0.13208102468309188,
+        0.9865007266134449
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 41,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.018156290243168956,
+        0.10099837993362984,
+        -0.017318380805309345,
+        0.9945701333046708
+      ],
+      "neckLocalRotation": [
+        -0.09123707321467422,
+        0.03192236349667269,
+        0.13524335544463112,
+        0.986086200079934
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 42,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.017477855480456276,
+        0.10502163312046317,
+        -0.019590789901177484,
+        0.9941233233837556
+      ],
+      "neckLocalRotation": [
+        -0.09099378394403024,
+        0.03214419057014172,
+        0.13838990642032137,
+        0.9856648092009334
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 43,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.01684661431905672,
+        0.10902233982751643,
+        -0.022102439116899377,
+        0.9936507450757546
+      ],
+      "neckLocalRotation": [
+        -0.09075444119842478,
+        0.032364023533696495,
+        0.14152739261644817,
+        0.9852340831105376
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 44,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.016266239945286278,
+        0.11297846880047029,
+        -0.02484805208019602,
+        0.9931534872985965
+      ],
+      "neckLocalRotation": [
+        -0.09053167173356957,
+        0.03258515461643722,
+        0.14466733055245368,
+        0.9847911390658303
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 45,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.015734633049369454,
+        0.11689854078756706,
+        -0.027830071992286782,
+        0.9926291551115369
+      ],
+      "neckLocalRotation": [
+        -0.09031710022094615,
+        0.03280554295418275,
+        0.1477999269469647,
+        0.9843382545414117
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 46,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.015254056339366131,
+        0.12076526114180094,
+        -0.031062493786781536,
+        0.9920777121507641
+      ],
+      "neckLocalRotation": [
+        -0.09009868761090668,
+        0.033022937458891476,
+        0.1508978179413463,
+        0.9838808670936328
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 47,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.014835107961207562,
+        0.12461278952217025,
+        -0.0345766592648372,
+        0.9914918188736436
+      ],
+      "neckLocalRotation": [
+        -0.08987722600110566,
+        0.03323599616525142,
+        0.15395004855159425,
+        0.9834209858225578
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 48,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.014449435951938016,
+        0.12835240794613817,
+        -0.038285908461770594,
+        0.9908839802864692
+      ],
+      "neckLocalRotation": [
+        -0.08965114778418437,
+        0.033448292611972866,
+        0.15698586167182155,
+        0.9829543848304855
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 49,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.014073487409700252,
+        0.13188324038454727,
+        -0.04212707357201443,
+        0.9902696892917904
+      ],
+      "neckLocalRotation": [
+        -0.08941443344262451,
+        0.03366388488401599,
+        0.1600335199356371,
+        0.9824770096260067
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 50,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.013717684580777033,
+        0.13523808730293074,
+        -0.04613125285868802,
+        0.989643568352806
+      ],
+      "neckLocalRotation": [
+        -0.08916820622108988,
+        0.03388168682748743,
+        0.16308434535304178,
+        0.9819901010691539
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 51,
+      "bustSource": "Steam clip 45",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.013342220282021429,
+        0.13844281688094195,
+        -0.05012712944472719,
+        0.9890110426611262
+      ],
+      "neckLocalRotation": [
+        -0.08892664245935185,
+        0.03409723919075008,
+        0.16612376421746358,
+        0.9814949442063857
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 52,
+      "bustSource": "original party illustration",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.012933362721374367,
+        0.14150730437169717,
+        -0.05407882204572695,
+        0.9883743683161355
+      ],
+      "neckLocalRotation": [
+        -0.08869416177260035,
+        0.03430834696468891,
+        0.16914502200063336,
+        0.9809924793434514
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 53,
+      "bustSource": "original party illustration",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.012500366676911345,
+        0.14442418284991326,
+        -0.05798933821003391,
+        0.9877361150099959
+      ],
+      "neckLocalRotation": [
+        -0.08846805645035787,
+        0.03451714544328948,
+        0.17215452372846587,
+        0.980481917027626
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 54,
+      "bustSource": "original party illustration",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.012039042803989613,
+        0.14718878873083488,
+        -0.06176970209597564,
+        0.9871043642003047
+      ],
+      "neckLocalRotation": [
+        -0.08825180019487693,
+        0.03472536888328678,
+        0.17515830655194284,
+        0.9799619054657885
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 55,
+      "bustSource": "original party illustration",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.011551832499062097,
+        0.14980320487355578,
+        -0.06545044284305276,
+        0.9864794952289548
+      ],
+      "neckLocalRotation": [
+        -0.08804972663772023,
+        0.03493170284566358,
+        0.17815577606006316,
+        0.9794322545392109
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 56,
+      "bustSource": "original party illustration",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.01103322645233973,
+        0.15226709936022564,
+        -0.06896705324014006,
+        0.9858684212073365
+      ],
+      "neckLocalRotation": [
+        -0.08784591878757753,
+        0.03513981944112833,
+        0.1811460842162827,
+        0.978894470213781
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 57,
+      "bustSource": "original party illustration",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.010477526718687442,
+        0.1545676522472464,
+        -0.0722710883883037,
+        0.9852796314223713
+      ],
+      "neckLocalRotation": [
+        -0.08762699206619125,
+        0.03535479523872061,
+        0.18412921548733713,
+        0.9783496209019953
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 58,
+      "bustSource": "original party illustration",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.009887431398969897,
+        0.15671088621896787,
+        -0.07538574103550078,
+        0.9847136268425074
+      ],
+      "neckLocalRotation": [
+        -0.0873985962803279,
+        0.03557461066476316,
+        0.18710502842851487,
+        0.9777973413652972
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 59,
+      "bustSource": "original party illustration",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.009265909702544437,
+        0.15876490444123914,
+        -0.07821788043446286,
+        0.9841696049032854
+      ],
+      "neckLocalRotation": [
+        -0.08716131441013467,
+        0.035789794871549784,
+        0.1900732637714516,
+        0.9772380212888866
+      ],
+      "independentHeadOrNeckCorrection": false
+    },
+    {
+      "i": 60,
+      "bustSource": "original party illustration",
+      "headParent": "Bip01 Neck",
+      "neckParent": "Bip01 Spine2",
+      "headLength": 8.390478222914831,
+      "headLocalRotation": [
+        -0.008613055760981892,
+        0.16075956721141293,
+        -0.0807701941241357,
+        0.9836454404721282
+      ],
+      "neckLocalRotation": [
+        -0.0869077037164245,
+        0.035995367970852225,
+        0.1930238292958193,
+        0.9766745547229945
+      ],
+      "independentHeadOrNeckCorrection": false
+    }
+  ],
+  "finalFrameMatchesSteamIllustration": true,
+  "sourceDrawing": "P5_CAMPPARTY_2D.png",
+  "sourceClip": 45,
+  "firstFrame": {
+    "i": 0,
+    "bustSource": "Steam clip 45",
+    "headParent": "Bip01 Neck",
+    "neckParent": "Bip01 Spine2",
+    "headLength": 8.394540690101486,
+    "headLocalRotation": [
+      -0.16545503585303292,
+      0.19004915168773356,
+      0.11694008395851371,
+      0.9606409151277183
+    ],
+    "neckLocalRotation": [
+      -0.10252274706630164,
+      0.018690289495672783,
+      -0.04517724015323351,
+      0.9935284476977417
+    ],
+    "independentHeadOrNeckCorrection": false
+  }
+}
