@@ -19,7 +19,10 @@ const tileUrl = `url("data:image/svg+xml,${encodeURIComponent(tile)}")`;
 // Boundaries are expressed in the *illustration's* coordinate system, rather
 // than viewport percentages. They follow its responsive placement and scaling.
 const regions = {
-  main: [[.46,0],[1,0],[1,.80],[.77,.80],[.35,.10]],
+  // camp-top's raised hand divides the composition along an 18-degree line:
+  // x=1536 at y=0 in the 3072px Steam illustration. Continue that same edge
+  // behind the wrist, rather than exposing a separate corner beside the finger.
+  main: [[.5,0],[1,0],[1,1],[.5-Math.tan(Math.PI/10),1]],
   0: [[.20,0],[1,0],[1,.55],[.70,.55],[.48,.28],[.20,.10]],
   1: [[0,0],[.72,0],[.64,.20],[.38,.70],[0,.70]],
   2: [[.58,0],[1,0],[1,.68],[.79,.68],[.38,.34]],
