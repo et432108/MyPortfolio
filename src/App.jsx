@@ -1,5 +1,6 @@
 import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import { JokerTransition } from './components/JokerTransition.jsx';
+import { StarBackground } from './components/StarBackground.jsx';
 import { MenuHeading, Navigation } from './components/Navigation.jsx';
 import { SectionContent } from './components/Sections.jsx';
 import { sections } from './sections.js';
@@ -190,7 +191,7 @@ export function App() {
     <svg width="0" height="0" aria-hidden="true"><defs><filter id="red-ink" colorInterpolationFilters="sRGB"><feColorMatrix type="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" /></filter></defs></svg>
     <a className="skip-link" href="#commands" onClick={e => { e.preventDefault(); buttons.current[selection.current]?.focus(); }}>Skip to navigation</a>
     <div id="game-frame">
-      <div id="native-background" aria-hidden="true" />
+      <StarBackground />
       <JokerTransition ref={motion} initialReduced={initialReduced.current} />
       <header>
         <a href="#" className="identity" aria-label="Ethan Pacheco, home" onClick={e => { e.preventDefault(); goHome(); select(0); }}><span>ETHAN PACHECO</span><small>GAMES / SOFTWARE / TOOLS</small></a>

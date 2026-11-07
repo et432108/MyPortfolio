@@ -19,9 +19,4 @@ body[data-section="1"] .command-mark{left:365px;top:495px;transform:rotate(-18de
 body[data-section="2"] .command-mark{left:460px;top:420px;transform:rotate(-18deg)}
 body[data-section="3"] .command-mark{left:330px;top:515px;transform:rotate(-14deg)}
 body[data-section="5"] .command-mark,body[data-section="4"] .command-mark{visibility:hidden}
-body[data-section="0"] #native-background{clip-path:polygon(18% 0,100% 0,100% 100%,65% 100%,0 10%)}
-body[data-section="1"] #native-background,body[data-section="3"] #native-background{clip-path:polygon(0 0,65% 0,50% 100%,0 100%)}
-body[data-section="2"] #native-background{clip-path:polygon(0 0,30% 0,100% 85%,100% 100%,0 100%)}
-body[data-section="5"] #native-background{clip-path:polygon(0 0,40% 0,49% 100%,0 100%)}
-body[data-section="4"] #native-background{clip-path:polygon(79% 0,100% 0,100% 100%,89% 100%,72% 40%)}
 }

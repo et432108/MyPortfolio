@@ -36,6 +36,7 @@ This is a static React site: Vercel serves the compiled JavaScript, CSS, images,
 - `src/components/Navigation.jsx`: menu and original bitmap lettering.
 - `src/components/Sections.jsx`: portfolio content, filters, and project details.
 - `src/components/JokerTransition.jsx`: React wrapper around the Canvas player.
+- `src/components/StarBackground.jsx`: code-drawn SVG stars, anchored to each illustration's size and position; CSS animates a single bounded layer without color filters.
 - `src/lib/data.js`: education, projects, experience, skills, and links.
 - `src/lib/motion.js` and `native-flights.js`: animation sequencing and frame playback.
 - `scripts/build.mjs`: esbuild bundle and static-file build.
@@ -53,5 +54,7 @@ Up/Down selects a section; Enter opens it; Escape goes back; Home/End selects th
 The seven transitions use 297 pre-rendered frames prepared from the installed Steam model, animation clips, and artwork. Python and C++ were used for offline asset preparation; running or rebuilding this interface does not require them. Profile uses clip 45 with the original head and neck transforms, followed by the original Stats illustration. Framing, interpolation, retiming, and the transition into the illustration are custom web adaptations.
 
 Desktop and mobile browser checks passed for all six section animations, keyboard navigation, filtering, project details, Quick View, settings persistence, deep links, and cancellation during delayed frame loading. The same Canvas and player remain mounted across interface updates. See `provenance/REACT-MIGRATION.json`.
+
+The SVG background was compared against the previous filtered PNG in headless Chromium. At 1280×720, Profile playback settled around 16.7 ms between draws; at 2560×1392, the median improved from roughly 93 ms to 53 ms. The larger view still falls short of smooth 60 Hz playback in that environment. These are controlled browser measurements, not guarantees for every device. All six background layouts and the motion toggle were checked on desktop and mobile. Results: `provenance/SVG-STARS.json`.
 
 The résumé download is a text portfolio summary; the Contact section provides an email link to request the latest résumé. Game asset attribution and conversion details are in [ASSETS.md](ASSETS.md).

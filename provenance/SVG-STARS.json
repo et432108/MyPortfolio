@@ -1,0 +1,159 @@
+{
+  "runs": [
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "variant": "before",
+      "samples": [
+        {
+          "draws": 30,
+          "medianGap": 17.300000000046566,
+          "p95Gap": 18.5
+        },
+        {
+          "draws": 24,
+          "medianGap": 20.5,
+          "p95Gap": 32.800000000046566
+        },
+        {
+          "draws": 25,
+          "medianGap": 21.100000000093132,
+          "p95Gap": 25.300000000046566
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "variant": "after",
+      "samples": [
+        {
+          "draws": 31,
+          "medianGap": 16.699999999953434,
+          "p95Gap": 17.600000000093132
+        },
+        {
+          "draws": 31,
+          "medianGap": 16.800000000046566,
+          "p95Gap": 17.600000000093132
+        },
+        {
+          "draws": 32,
+          "medianGap": 16.600000000093132,
+          "p95Gap": 17.799999999813735
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 2560,
+        "height": 1392
+      },
+      "variant": "before",
+      "samples": [
+        {
+          "draws": 7,
+          "medianGap": 93,
+          "p95Gap": 98.89999999990687
+        },
+        {
+          "draws": 7,
+          "medianGap": 92.60000000009313,
+          "p95Gap": 94.30000000004657
+        },
+        {
+          "draws": 8,
+          "medianGap": 90.5,
+          "p95Gap": 116.30000000004657
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 2560,
+        "height": 1392
+      },
+      "variant": "after",
+      "samples": [
+        {
+          "draws": 11,
+          "medianGap": 54.800000000046566,
+          "p95Gap": 58.800000000046566
+        },
+        {
+          "draws": 11,
+          "medianGap": 52.89999999990687,
+          "p95Gap": 63.699999999953434
+        },
+        {
+          "draws": 12,
+          "medianGap": 51.10000000009313,
+          "p95Gap": 58
+        }
+      ]
+    }
+  ],
+  "alignment": [
+    {
+      "scene": "0",
+      "filter": "none",
+      "left": "270.467px",
+      "top": "0px",
+      "width": "1009.53px",
+      "height": "566.141px",
+      "clip": "polygon(0px -2px, 1101.87px -2px, 1101.87px 566.15px, 688.667px 566.15px, 385.653px 287.24px, 0px 101.3px)"
+    },
+    {
+      "scene": "1",
+      "filter": "none",
+      "left": "13px",
+      "top": "0px",
+      "width": "738.719px",
+      "height": "717.188px",
+      "clip": "polygon(0px -1px, 738.72px -1px, 656.64px 204.2px, 389.88px 717.2px, 0px 717.2px)"
+    },
+    {
+      "scene": "2",
+      "filter": "none",
+      "left": "510.84px",
+      "top": "0px",
+      "width": "769.156px",
+      "height": "696.672px",
+      "clip": "polygon(273.6px -1px, 848.16px -1px, 848.16px 696.68px, 560.88px 696.68px, 0px 347.84px)"
+    },
+    {
+      "scene": "3",
+      "filter": "none",
+      "left": "0px",
+      "top": "0px",
+      "width": "675.156px",
+      "height": "717.188px",
+      "clip": "polygon(-2px -1px, 675.16px -1px, 582.82px 286.28px, 326.32px 717.2px, -2px 717.2px)"
+    },
+    {
+      "scene": "4",
+      "filter": "none",
+      "left": "657.24px",
+      "top": "213px",
+      "width": "618.75px",
+      "height": "499px",
+      "clip": "polygon(199.6px 0px, 618.76px 0px, 618.76px 499px, 0px 499px)"
+    },
+    {
+      "scene": "5",
+      "filter": "none",
+      "left": "0px",
+      "top": "0px",
+      "width": "684px",
+      "height": "720px",
+      "clip": "polygon(-6px -3px, 566.7px -3px, 684px 721.5px, 76.8px 721.5px)"
+    }
+  ],
+  "errors": [],
+  "baselineCommit": "2430ec960bfc933652fd33ae682e89e09b70bde2",
+  "environment": "Headless Chromium, Windows; measurements are not device-independent FPS guarantees."
+}

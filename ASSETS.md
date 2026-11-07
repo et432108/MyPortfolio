@@ -17,10 +17,10 @@ The presentation uses assets extracted from the author's installed Steam copy of
 | Contact | `BASE.CPK / CAMP/HEROTEX/P5_CAMPMISSION_2D.DDS` |
 | Lettering / COMMAND | `EN.CPK / INIT/P5CAMP_00SPD.SPD`, atlas indices 3, 5, 7 |
 | Selection shape | `EN.CPK / INIT/CAMP.PLG`, object 36 |
-| Star background | `BASE.CPK / MINIGAME/FUGOU/STAR_BG.DDS` |
+| Star background | Original code-drawn SVG polygons in `src/components/StarBackground.jsx` |
 | Menu sounds | `SOUND_E.CPK / SOUND/SYSTEM.ACB` and `SYSTEM.AWB`, streams 170, 172, 177, 224 |
 
-DDS artwork was converted to PNG using DirectXTex texconv. The selection geometry was converted to SVG from its original vertices and indices. CSS and JavaScript implement the portfolio layout and background movement.
+DDS artwork was converted to PNG using DirectXTex texconv. The selection geometry was converted to SVG from its original vertices and indices. The star background is now a custom, seamless SVG tile authored in code, replacing the filtered game texture. One bounded CSS layer moves the tile; each section's boundary follows its character illustration's responsive coordinates. CSS and JavaScript implement the portfolio layout and background movement.
 
 ## Animation
 
