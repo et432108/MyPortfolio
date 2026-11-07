@@ -39,6 +39,6 @@ body{background:#080808}#game-frame{width:1280px;height:720px;position:fixed;lef
 }
 
 /* Code-drawn SVG tile. Only this bounded layer moves; no color filters. */
-#native-background{position:absolute;inset:auto;overflow:hidden;pointer-events:none;opacity:1;z-index:0;filter:none;isolation:isolate;contain:paint;background:#080808;transform:translateZ(0);--star-tile:440px}
+#native-background{position:absolute;inset:auto;overflow:hidden;pointer-events:none;opacity:1;z-index:0;filter:none;isolation:isolate;contain:paint;background:#d0d0d0;transform:translateZ(0);--star-tile:440px}
 .star-field{position:absolute;left:calc(-1 * var(--star-tile));top:0;width:calc(100% + var(--star-tile));height:calc(100% + var(--star-tile));background-repeat:repeat;background-size:var(--star-tile) var(--star-tile);background-position:var(--star-origin-x,0px) var(--star-origin-y,0px);animation:star-drift 16s linear infinite;will-change:transform;backface-visibility:hidden}
 @keyframes star-drift{from{transform:translate3d(0,0,0)}to{transform:translate3d(var(--star-tile),calc(-1 * var(--star-tile)),0)}}

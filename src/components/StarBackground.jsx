@@ -6,12 +6,14 @@ const points = radius => Array.from({ length:10 }, (_, i) => {
   const angle = -Math.PI/2+i*Math.PI/5, r = radius*(i%2 ? .43 : 1);
   return `${(Math.cos(angle)*r).toFixed(2)},${(Math.sin(angle)*r).toFixed(2)}`;
 }).join(' ');
+// Reference menu frames use neutral gray paper and near-black ink.
+const paper = '#d0d0d0', ink = '#030303';
 const rings = [1,.88,.77,.66,.55,.44,.33,.22].map((r,i) =>
-  `<polygon points="${points(100*r)}" fill="${i%2 ? '#080808' : '#f4f4ee'}"/>`).join('');
+  `<polygon points="${points(100*r)}" fill="${i%2 ? paper : ink}"/>`).join('');
 const stars = [[66,78,1.12,-14],[292,56,.82,18],[199,265,1.62,-9],[416,365,1.12,15],[25,383,.68,24]];
 const copies = stars.flatMap(([x,y,s,a]) => [-440,0,440].flatMap(dx => [-440,0,440].map(dy =>
   `<use href="#star" transform="translate(${x+dx} ${y+dy}) rotate(${a}) scale(${s})"/>`))).join('');
-const tile = `<svg xmlns="http://www.w3.org/2000/svg" width="440" height="440" viewBox="0 0 440 440"><defs><g id="star">${rings}</g></defs><path fill="#080808" d="M0 0h440v440H0z"/>${copies}</svg>`;
+const tile = `<svg xmlns="http://www.w3.org/2000/svg" width="440" height="440" viewBox="0 0 440 440"><defs><g id="star">${rings}</g></defs><path fill="${paper}" d="M0 0h440v440H0z"/>${copies}</svg>`;
 const tileUrl = `url("data:image/svg+xml,${encodeURIComponent(tile)}")`;
 
 // Boundaries are expressed in the *illustration's* coordinate system, rather
